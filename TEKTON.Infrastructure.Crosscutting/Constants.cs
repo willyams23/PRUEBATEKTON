@@ -17,7 +17,7 @@
 
         public static class RediExpire
         {
-            public const int Minutos = 50;
+            public const int Minutos = 5;
         }
         public static class EstadoRegistro
         {
